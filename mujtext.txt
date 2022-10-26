@@ -1,2 +1,3 @@
 Hello GitHub
 #second modification for my homework - 2
+Branch 2 text added
